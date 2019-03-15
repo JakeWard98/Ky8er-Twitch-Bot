@@ -4,6 +4,7 @@
   "description": "A bot for a Twitch Channel",
   "main": "main.js",
   "dependencies": {
+    "tmi.js": "^1.4.2",
     "twitch": "^2.0.0"
   },
   "devDependencies": {},
