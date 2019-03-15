@@ -1,0 +1,24 @@
+{
+  "name": "ky8er-twitch-bot",
+  "version": "1.0.0",
+  "description": "A bot for a Twitch Channel",
+  "main": "main.js",
+  "dependencies": {
+    "twitch": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeWard98/Ky8er-Twitch-Bot.git"
+  },
+  "author": "Jake Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeWard98/Ky8er-Twitch-Bot/issues"
+  },
+  "homepage": "https://github.com/JakeWard98/Ky8er-Twitch-Bot#readme"
+}
